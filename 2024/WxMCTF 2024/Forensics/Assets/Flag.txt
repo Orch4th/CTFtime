@@ -1,7 +1,0 @@
-wxmctf{g0od_l^c3_3ve*y0n!} : WxMCTF '24 Misc 0 - Welcome to WxMCTF!
-wxmctf{Wha7_W0uLD_w3_6e_w17HouT_Gr3P} : WxMCTF '24 Misc 3 - firstgrep
-wxmctf{Eightfold Battle Formation} : WxMCTF '24 Forensics 1- 諸葛亮
-wxmctf{7h1n95_423_n07_41w4y5_wh47_7h3y_533m} :  WxMCTF '24 Forensics 2 - Covert Chinchillas
-wxmctf{pika_chewy} : WxMCTF '24 Crypto 1 - Detective Pikachu!
-wxmctf{4nd_h1s_n4me_1s!!!!!!!} : WxMCTF '24 Web 1 - Mr. P
-wxmctf{m00dl3_m45t3rm1nd!!!} : WxMCTF '24 Pwn 1 - Moodle Madness
