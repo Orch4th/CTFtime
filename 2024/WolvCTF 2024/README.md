@@ -6,14 +6,15 @@ Our categories include Beginner, Cryptography, Web Exploitation, Binary Exploita
 
 ![image](https://github.com/Orch4th/CTFtime/assets/161552093/06062426-7e36-41f1-9a24-522daa47d6af)
 
-In WolvCTf 2024, i joined MiracleBytes Team and secured the 300th place out 555 teams
+In WolvCTf 2024, i joined MiracleBytes Team and secured the 284th place out 622 teams.
 
-| Category    | Challenge             |
-| ----------- | --------------------- |
-| Misc 0      | Welcome to WxMCTF     |
-| Misc 3      | Firstgrep             |
-| Forensics 1 | 諸葛亮                |
-| Forensics 2 | Covert Chinchillas    |
-| Crypto 1    | Detective Pikachu!    |
-| Web 1       | Mr. P                 |
-| PWN 1       | Moodle Madness        |
+| Category    | Challenge                    |
+| ----------- | ---------------------        |
+| Beginner    | OSINT: Redditor              |
+| Beginner    | Forensics: Hidden Data       |
+| Beginner    | Rev: babyre                  |
+| Beginner    | Pwn: babypwn                 |
+| Misc        | Sanity Check                 |
+| Misc        | Feedback Survey              |
+| Osint       | WOLPHV I: Reconnaissance     |
+| Forensics   | Eternally Pwned: Infiltration|
